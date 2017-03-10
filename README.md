@@ -9,6 +9,8 @@ AVR Toolchain Crosscompiler Multiplatforms
 >>   - ***Platform:***: AVR Crosscompiler for Linux.
 >> - [master-Win](https://github.com/UrusTeam/avr_toolchain_multi_cross/tree/master-Win)
 >>   - ***Platform:***: AVR Crosscompiler for Win.
+>> - [master-MacOs](https://github.com/UrusTeam/avr_toolchain_multi_cross/tree/master-MacOs)
+>>   - ***Platform:***: AVR Crosscompiler for MacOs.
 
 ### ABOUT THIS ###
 
